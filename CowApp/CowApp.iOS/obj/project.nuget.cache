@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mS2diFiyZXrCAD3+HZDyvTJTmrrD6msdqVfwSYgKWLT8Iiimij5A4iOdjwOCnL1rJGXdlj10Q++rW4arob+Gww==",
+  "success": true,
+  "projectFilePath": "/Users/luisenrique/RiderProjects/CowApp/CowApp/CowApp.iOS/CowApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/luisenrique/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

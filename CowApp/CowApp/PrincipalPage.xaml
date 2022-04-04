@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<ContentPage
+    BackgroundColor="#A9E2F5"
+    Title="COWAPP"
+    ios:Page.UseSafeArea="true"
+    x:Class="CowApp.PrincipalPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+    <ContentPage.Content>
+        <Grid BackgroundColor="#FFF7EC">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="400" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Image
+                Aspect="Fill"
+                Grid.Row="0"
+                Source="https://i.ibb.co/7WmX92v/image.png"
+                VerticalOptions="Start" />
+            <Image
+                Grid.Row="0"
+                Source="https://i.ibb.co/KWshxcy/image.png"
+                VerticalOptions="Start" />
+            <StackLayout
+                Grid.Row="1"
+                HorizontalOptions="CenterAndExpand"
+                Margin="20"
+                VerticalOptions="CenterAndExpand">
+                <StackLayout>
+                    <Label Text="Ingresar cantidad de persona" />
+                    <Entry Keyboard="Numeric" x:Name="PeopleCount" />
+                    <Label Text="Ingrese el costo de la cuenta" />
+                    <Entry Keyboard="Numeric" x:Name="BillCount" />
+                    <Label Text="Ingresa el porcentaje de la propipna" />
+                    <Entry Keyboard="Numeric" x:Name="Propina" />
+                    <Button Clicked="Calcular_OnClicked" Text="CALCULAR" />
+                </StackLayout>
+            </StackLayout>
+            <Image
+                Aspect="Fill"
+                Grid.Row="2"
+                Source="https://i.ibb.co/3WK9KBR/image.png"
+                VerticalOptions="End" />
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

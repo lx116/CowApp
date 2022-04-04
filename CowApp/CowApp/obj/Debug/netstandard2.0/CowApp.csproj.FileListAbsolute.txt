@@ -1,0 +1,14 @@
+/Users/luisenrique/RiderProjects/CowApp/CowApp/CowApp/bin/Debug/netstandard2.0/CowApp.deps.json
+/Users/luisenrique/RiderProjects/CowApp/CowApp/CowApp/bin/Debug/netstandard2.0/CowApp.dll
+/Users/luisenrique/RiderProjects/CowApp/CowApp/CowApp/bin/Debug/netstandard2.0/CowApp.pdb
+/Users/luisenrique/RiderProjects/CowApp/CowApp/CowApp/obj/Debug/netstandard2.0/CowApp.csprojAssemblyReference.cache
+/Users/luisenrique/RiderProjects/CowApp/CowApp/CowApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/luisenrique/RiderProjects/CowApp/CowApp/CowApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/luisenrique/RiderProjects/CowApp/CowApp/CowApp/obj/Debug/netstandard2.0/PrincipalPage.xaml.g.cs
+/Users/luisenrique/RiderProjects/CowApp/CowApp/CowApp/obj/Debug/netstandard2.0/CowApp.AssemblyInfoInputs.cache
+/Users/luisenrique/RiderProjects/CowApp/CowApp/CowApp/obj/Debug/netstandard2.0/CowApp.AssemblyInfo.cs
+/Users/luisenrique/RiderProjects/CowApp/CowApp/CowApp/obj/Debug/netstandard2.0/CowApp.csproj.CoreCompileInputs.cache
+/Users/luisenrique/RiderProjects/CowApp/CowApp/CowApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/luisenrique/RiderProjects/CowApp/CowApp/CowApp/obj/Debug/netstandard2.0/CowApp.dll
+/Users/luisenrique/RiderProjects/CowApp/CowApp/CowApp/obj/Debug/netstandard2.0/CowApp.pdb
+/Users/luisenrique/RiderProjects/CowApp/CowApp/CowApp/obj/Debug/netstandard2.0/ResultView.xaml.g.cs
